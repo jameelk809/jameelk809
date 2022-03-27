@@ -1,16 +1,32 @@
-### Hi there 👋
+### <h1>Kamran Jameel
 
-<!--
-**jameelk809/jameelk809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/jameelk809">
+  <img align="left" alt="Kamran's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/kamranjameel/">
+  <img align="left" alt="Kamran's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.facebook.com/kamran.jameel.520/">
+  <img align="left" alt="Kamran's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<a href="https://www.instagram.com/kamranjameel54/">
+  <img align="left" alt="Kamran's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br>
+<br>
+
+- BCREC
+- B. Tech: Computer Science & Engineering
+
+<br>
+
+![Kamran Repository's Stats](https://github-readme-stats.vercel.app/api?username=jameelk809&show_icons=true&theme=blue-green)
+
+![Kamran's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameelk809&theme=blue-green)
+
+
+![](https://komarev.com/ghpvc/?username=jameelk809&style=for-the-badge)

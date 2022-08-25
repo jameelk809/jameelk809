@@ -42,10 +42,12 @@
 <br />
 
 <br>
-
+  
 ![Kamran Repository's Stats](https://github-readme-stats.vercel.app/api?username=jameelk809&show_icons=true&theme=blue-green)
 
-![Kamran's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameelk809&theme=blue-green)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jameelk809&theme=dark&hide_border=false)
+<br/>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jameelk809&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=jameelk809&style=for-the-badge)

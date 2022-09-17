@@ -48,6 +48,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jameelk809&theme=dark&hide_border=false)
 <br/>
 
+<a href="http://www.github.com/jameelk809"><img src="https://activity-graph.herokuapp.com/graph?username=jameelk809&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jameelk809&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=jameelk809&style=for-the-badge)
